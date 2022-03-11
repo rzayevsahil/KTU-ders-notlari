@@ -25,9 +25,9 @@
 
 
 ## 1. Sınıf
-### [1. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/18fcH2Xc9yWW9CmVIuSV4Z2W6FOYwPNQJ)
+### [1. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1muevM31ucmNKIqk_6dufxDmEDh1Oqdg5)
 
-### [1. Dönem dersleri](https://drive.google.com/drive/folders/18imlJ5x66zo5Y_S5yBtRkDchcZEcsoj3) 
+### [1. Dönem dersleri](https://drive.google.com/drive/folders/1E_gXB6iCf-5thg4Ks3SSbWSiysaWFIsL) 
 * Atatürk İlkeleri ve İnkılap Tarihi - I	2	
 * Türk Dili - I	2	
 * İngilizce - I	3	
@@ -37,7 +37,7 @@
 * Bilgisayarın Temelleri	3
 * Yazılım Mühendisliğine Giriş 2
  	
-### [2. Dönem dersleri](https://drive.google.com/drive/folders/1D3b1EGme5teCNmlhFeG4LYY6OhBGptRL) 
+### [2. Dönem dersleri](https://drive.google.com/drive/folders/116K0zsatxMwMFNic1-cJPpebHNhFpa90) 
 * Atatürk İlkeleri ve İnkılap Tarihi - II	2	
 * Türk Dili - II	2	
 * Veri Yapıları	3	
@@ -48,9 +48,9 @@
 * Yazılım Gereksinimi Mühendisliği	2
   
 ## 2. Sınıf
-### [2. sınıf ders notları için tıklayın]()
+### [2. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1hAByxzYcbwCVm-OjqGX66iPm166Pe8Ap)
 
-### [1. Dönem dersleri]() 
+### [1. Dönem dersleri](https://drive.google.com/drive/folders/1-PAUcXNlQ2YPjzkvkLJnf1xoGEhy5OIo) 
 * Mühendislik ve Bilişim Etiği	2	
 * Bilimsel Proje Hazırlama	2	
 * Veri Tabanı ve Yönetimi	3	
@@ -59,7 +59,7 @@
 * Diferansiyel Denklemler	4	
 * İngilizce Okuma ve Yazma	2
 
-### [2. Dönem dersleri]()
+### [2. Dönem dersleri](https://drive.google.com/drive/folders/1tdG0qNQvh4iHlx0qW2zlb_JCZfOiq2fz)
 * Bilim Tarihi	2	
 * Sunum ve Sunuş Teknikleri	2	
 * İleri Web Uygulamaları	3	
@@ -69,9 +69,9 @@
 * Olasılık ve İstatistik	3,50
   
 ## 3. Sınıf
-### [3. sınıf ders notları için tıklayın]()
+### [3. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1eHJ6TIfAaYNbDlc4Xa_N1fX1GLVLgS6c)
 
-### [1. Dönem dersleri]() 
+### [1. Dönem dersleri](https://drive.google.com/drive/folders/1Yc85h8FXmvlSmA8tBIU7Vwzzk2yjP5Bo) 
 * Biçimsel Diller ve Otomata	3	
 * Sayısal Çözümleme	3	
 * Yazılım Tasarımı ve Mimarisi	3,50
